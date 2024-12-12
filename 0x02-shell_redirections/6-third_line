@@ -1,0 +1,3 @@
+#!/bin/bash
+#script for displaying third line of a file
+head -n 3 iacta | tail -n 1
