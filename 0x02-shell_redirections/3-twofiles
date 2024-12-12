@@ -1,0 +1,7 @@
+#!/bin/bash
+#script to display passwd
+cat /etc/passwd
+echo "##"
+
+#script to display hosts
+cat /etc/hosts
