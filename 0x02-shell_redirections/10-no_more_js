@@ -1,0 +1,5 @@
+#!/bin/bash
+
+#script for deleting js files
+
+find . -type f -name "*.js" -delete
