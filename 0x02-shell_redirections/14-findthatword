@@ -1,0 +1,3 @@
+#!/bin/bash
+#script for displaying lines with the pattern "root" from /etc/passwd
+grep "root" /etc/passwd
